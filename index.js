@@ -187,7 +187,7 @@ Array.prototype.sembat = function () {
 	return this.splice(...arguments)
 }
 
-Array.prototype.jadikanLokalString = function () {
+Array.prototype.jadikanStringLokal = function () {
 	return this.toLocaleString(...arguments)
 }
 
