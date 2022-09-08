@@ -1,7 +1,7 @@
 # Nodejs-metode-array-indonesia
 Code ini berfungsi untuk menerjemahkan metode-metode array ke dalam bahasa indonesia
 
-> Berikut ini beberapa metode array yang diterjemahkan
+### Berikut ini beberapa metode array yang diterjemahkan
 
 - apakahArray
  ```Javascript
