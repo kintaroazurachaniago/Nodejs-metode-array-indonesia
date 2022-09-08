@@ -4,7 +4,9 @@ Code ini berfungsi untuk menerjemahkan metode-metode array ke dalam bahasa indon
 > Berikut ini beberapa metode array yang diterjemahkan
 
 - apakahArray
- ```Javascript Array.isArray ```
+ ```Javascript
+ Array.isArray
+ ```
 - nya
 - panjang
 - pada
